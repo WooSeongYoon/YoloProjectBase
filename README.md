@@ -22,4 +22,4 @@ YoloProjectBase/
 ├── init.py/                     # 추가 세팅 설정     
 ├── yolov8m.pt/                  # YOLO pt파일   
 │   
-└── docker-compose.yml            # Docker 컨테이너 구성 파일   
+└── Inspection_yolo.py           # 학습된 모델로 객체 탐지
