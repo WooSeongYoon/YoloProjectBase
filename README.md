@@ -5,7 +5,7 @@ Yolo 모델의 학습 기초
 - pip install ultralytics
 - pip install wandb
 
-## 프로젝트 구조
+## YOLO프로젝트 구조
 YoloProjectBase/   
 ├── Dataset/                # 데이터셋   
 │   ├─ data.yaml/                # 데이터셋 정의   
