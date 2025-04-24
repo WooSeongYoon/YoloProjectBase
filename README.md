@@ -5,6 +5,7 @@ Yolo 모델의 학습 기초
 - pip install ultralytics
 - pip install wandb
 - 데이터셋 폴더
+- 각 폴더의 PATH 설정
 
 ## YOLO프로젝트 구조
 YoloProjectBase/   
